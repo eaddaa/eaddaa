@@ -34,10 +34,15 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper194psnczqjngneqgu5updp3a5ac3eq87n72qjwh" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg"> </a>
             </td>
-        </tr>
+            <td width="130px" align="center">
+            <span><strong>Q BLOCKCHAIN</strong></span><br><br />
+            <a href="https://itn.qdev.li/statistics?validator_address=0x880782a92C578FF738c5507450c13AE27e72A816" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
+            </td>
+          </tr>
     </tbody>
-</table>
-
+</table>    
+     
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
