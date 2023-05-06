@@ -45,7 +45,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>A C T I V E &nbsp; T E S T N E T S</i></h2>    </div>  <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
+  <h2><i>A C T I V E & C O M P L E T E D&nbsp; T E S T N E T S</i></h2>   
   </div>
 </div>
 <table width="320px" align="center">
