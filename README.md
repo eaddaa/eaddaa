@@ -86,7 +86,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <span><strong>QUASAR</strong></span><br><br />
             <a href="https://quasar.explorers.guru/validator/quasar19ks2zar84w4g4cfr9r39hvt3c8a7lt4prsxe6w" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/W5g5nJ8/quasar.png"> </a>
-            </td
+            </td>
             <td width="130px" align="center">
             <span><strong>NIBIRU</strong></span><br><br />
             <a href="https://explorers.acloud.pp.ua/nibiru-testnet/staking/nibivaloper1vyvlllnu9mest2pxljvppm7ksq3a9y69lt039h" target="_blank" rel="noopener noreferrer">
