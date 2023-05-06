@@ -64,7 +64,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <td width="130px" align="center">
             <span><strong>GITOPIA</strong></span><br><br />
             <a href="https://gitopia.explorers.guru/validator/gitopiavaloper1qxttplah2cd0ssez5rla9e7lc540yxpga9eahr" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/b7DS8KP/gitopia.png"> </a>
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
@@ -112,7 +112,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <td width="130px" align="center">
             <span><strong>SEI</strong></span><br><br />
             <a href="https://sei.explorers.guru/validator/seivaloper194psnczqjngneqgu5updp3a5ac3eq87ncq747a" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/WFthtruhPPoZq8NBA/sei.png"> </a>
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1608883260465061888/w1Eh5L4X_400x400.jpg"> </a>
             </td>
         </tr>
     </tbody>
