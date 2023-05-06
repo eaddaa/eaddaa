@@ -39,6 +39,11 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <a href="https://hq.q.org/staking/validators/0x880782a92C578FF738c5507450c13AE27e72A816" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>NEWRL</strong></span><br><br />
+            <a href="https://twitter.com/newrl_layer1" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1567814417630511107/MyafMY_R_400x400.png"> </a>
+            </td>
           </tr>
     </tbody>
 </table>    
@@ -114,6 +119,30 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <a href="https://sei.explorers.guru/validator/seivaloper194psnczqjngneqgu5updp3a5ac3eq87ncq747a" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1608883260465061888/w1Eh5L4X_400x400.jpg"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>MASSA</strong></span><br><br />
+            <a href="https://medium.com/@altai0/massa-the-decentralized-and-scaled-blockchain-d%C3%BC%C4%9F%C3%BCm-olu%C5%9Fturma-t%C3%BCrk%C3%A7e-7713d46c246c" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1580151744901824512/W_MD85bU_400x400.jpg"> </a>
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>GORACLE</strong></span><br><br />
+            <a href="https://github.com/Kral001/Goracle-Network-Node-Kurulum-Rehberi/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1527628502597521411/NPPJeSYq_400x400.jpg"> </a>
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>ZIESHA</strong></span><br><br />
+            <a href="https://twitter.com/ZieshaNetwork" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1609169358193844224/wFzdThao_400x400.jpg"> </a>
+             </td> 
+            <td width="130px" align="center">
+            <span><strong>MUON</strong></span><br><br />
+            <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg"> </a>
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>SARCOPHAGUS</strong></span><br><br />
+            <a href="https://github.com/Core-Node-Team/Testnet-TR/tree/main/Sarcophagus/Domain-Settings"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1299025554163871744/wNNzn8OT_400x400.jpg"> </a>
         </tr>
     </tbody>
 </table>
