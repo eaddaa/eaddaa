@@ -42,6 +42,38 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
           </tr>
     </tbody>
 </table>    
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>A C T I V E &nbsp; T E S T N E T S</i></h2>
+  </div>
+</div>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>DYMENSION</strong></span><br><br />
+            <a href="https://dymension.explorers.guru/validator/dym19ks2zar84w4g4cfr9r39hvt3c8a7lt4plwszj9" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/PY7ZJ50/dymenion.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>PALOMA</strong></span><br><br />
+            <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper1y3r97ma99frzwyxkk4372yufhzql0uxqf9a0dl">
+            <img height="60px" src="https://i.ibb.co/q9spbK3/paloma.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>GITOPIA</strong></span><br><br />
+            <a href="https://gitopia.explorers.guru/validator/gitopiavaloper1qxttplah2cd0ssez5rla9e7lc540yxpga9eahr" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/b7DS8KP/gitopia.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>SHARDEUM</strong></span><br><br />
+            <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
+            </td>
+          </tr>
+    </tbody>
+</table>
      
 
 <div align="center">
