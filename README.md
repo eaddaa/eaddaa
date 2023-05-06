@@ -45,7 +45,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>A C T I V E &nbsp; T E S T N E T S</i></h2>
+  <h2><i>A C T I V E &nbsp; T E S T N E T S</i></h2>    </div>  <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
   </div>
 </div>
 <table width="320px" align="center">
@@ -71,10 +71,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
             </td>
-          </tr>
-    </tbody>
-</table>
-<table width="320px" align="center">
+   <table width="320px" align="center">
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
@@ -92,10 +89,31 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <a href="https://explorers.acloud.pp.ua/nibiru-testnet/staking/nibivaloper1vyvlllnu9mest2pxljvppm7ksq3a9y69lt039h" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/55X0khT/nibiru.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>WORMHOLES</strong></span><br><br />
+            <a href="https://www.wormholesscan.com/#/AccountDetail/0x1621Bbd77823E8cfdB264BAB2cBEd70C64da45f9" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://i.ibb.co/vJK8TGX/wormholes.jpg"> </a>
+           </td>
+            <td width="130px" align="center">
+            <span><strong>STRIDE</strong></span><br><br />
+            <a href="https://stride.explorers.guru/validator/stridevaloper1t88jsgyyf5a77xaqj8lagt32lyelktsl2h43t7" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/TmZBHf2/stride.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>TERITORI</strong></span><br><br />
+            <a href="https://teritori.explorers.guru/validator/torivaloper1zlu29r4pcpj4rkptk76avm98yx7jkhjd0h7pea" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/z5nyhjk/teritori.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>REBUS</strong></span><br><br />
+            <a href="https://rebus.explorers.guru/validator/rebusvaloper1fnl7fc07k5hdz0q5mwuylsfal8ckxppp46p64v" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/tMsW6JW/rebus.png"> </a>
+            </td> 
         </tr>
     </tbody>
 </table>
 <table width="320px" align="center">
+
      
 
 <div align="center">
