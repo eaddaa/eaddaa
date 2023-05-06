@@ -16,7 +16,7 @@
 <h1>eaddaa</h1>
 <br />
 <br />
-Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
+Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
   </div>
 </div>
   </div>
