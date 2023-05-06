@@ -16,7 +16,7 @@
 <h1>eaddaa</h1>
 <br />
 <br />
-Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast. I actively participate in many testnets, help projects by providing highly secure and reliable infrastructure. I also already support some projects as mainnet validator. 
+Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
   </div>
 </div>
 
