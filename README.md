@@ -19,6 +19,24 @@
 Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
   </div>
 </div>
+  </div>
+</div>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>M A I N N E T S</i></h2>
+  </div>
+</div>
+<table width="300px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>QUICKSILVER</strong></span><br><br />
+            <a href="https://quicksilver.explorers.guru/validator/quickvaloper194psnczqjngneqgu5updp3a5ac3eq87n72qjwh" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg"> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 <div align="center">
@@ -44,7 +62,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
   <div style="display: flex; align-items: flex-start;">
 <br />
 <br />
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=vitavaleriya&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=eaddaa&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
 <br />
 <br />
   </div>
