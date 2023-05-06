@@ -119,6 +119,12 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <a href="https://sei.explorers.guru/validator/seivaloper194psnczqjngneqgu5updp3a5ac3eq87ncq747a" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1608883260465061888/w1Eh5L4X_400x400.jpg"> </a>
             </td>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
             <td width="130px" align="center">
             <span><strong>MASSA</strong></span><br><br />
             <a href="https://medium.com/@altai0/massa-the-decentralized-and-scaled-blockchain-d%C3%BC%C4%9F%C3%BCm-olu%C5%9Fturma-t%C3%BCrk%C3%A7e-7713d46c246c" target="_blank" rel="noopener noreferrer">
