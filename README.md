@@ -112,7 +112,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <td width="130px" align="center">
             <span><strong>SEI</strong></span><br><br />
             <a href="https://sei.explorers.guru/validator/seivaloper194psnczqjngneqgu5updp3a5ac3eq87ncq747a" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://i.ibb.co/PY7ZJ50/sei.png"> </a>
+            <img height="60px" src="https://i.ibb.co/WFthtruhPPoZq8NBA/sei.png"> </a>
             </td>
         </tr>
     </tbody>
