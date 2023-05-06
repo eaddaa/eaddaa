@@ -109,6 +109,11 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             <a href="https://rebus.explorers.guru/validator/rebusvaloper1fnl7fc07k5hdz0q5mwuylsfal8ckxppp46p64v" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/tMsW6JW/rebus.png"> </a>
             </td> 
+            <td width="130px" align="center">
+            <span><strong>SEI</strong></span><br><br />
+            <a href="https://sei.explorers.guru/validator/seivaloper194psnczqjngneqgu5updp3a5ac3eq87ncq747a" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/PY7ZJ50/sei.png"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
