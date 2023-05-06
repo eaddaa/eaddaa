@@ -36,7 +36,7 @@ Hey there! I’m eaddaa, PoS Validator,blockchain and crypto-enthusiast.
             </td>
             <td width="130px" align="center">
             <span><strong>Q BLOCKCHAIN</strong></span><br><br />
-            <a href="https://itn.qdev.li/statistics?validator_address=0x880782a92C578FF738c5507450c13AE27e72A816" target="_blank" rel="noopener noreferrer">
+            <a href="https://hq.q.org/staking/validators/0x880782a92C578FF738c5507450c13AE27e72A816" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
             </td>
           </tr>
