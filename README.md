@@ -95,7 +95,7 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <span><strong>WORMHOLES</strong></span><br><br />
             <a href="https://www.wormholesscan.com/#/AccountDetail/0x1621Bbd77823E8cfdB264BAB2cBEd70C64da45f9" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://i.ibb.co/vJK8TGX/wormholes.jpg"> </a>
-           </td>
+            </td>
             <td width="130px" align="center">
             <span><strong>STRIDE</strong></span><br><br />
             <a href="https://stride.explorers.guru/validator/stridevaloper1t88jsgyyf5a77xaqj8lagt32lyelktsl2h43t7" target="_blank" rel="noopener noreferrer">
@@ -136,7 +136,7 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <span><strong>ZIESHA</strong></span><br><br />
             <a href="https://twitter.com/ZieshaNetwork" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1609169358193844224/wFzdThao_400x400.jpg"> </a>
-             </td> 
+            </td> 
             <td width="130px" align="center">
             <span><strong>MUON</strong></span><br><br />
             <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
@@ -146,11 +146,78 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <span><strong>SARCOPHAGUS</strong></span><br><br />
             <a href="https://github.com/Core-Node-Team/Testnet-TR/tree/main/Sarcophagus/Domain-Settings"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1299025554163871744/wNNzn8OT_400x400.jpg"> </a>
+            </td> 
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+            <td width="130px" align="center">
+            <span><strong>Gitshock</strong></span><br><br />
+            <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1651392953443811328/ruML8EOf_400x400.jpg"> </a>
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>Stafi</strong></span><br><br />
+            <a href="https://www.javascript.com/"" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1491695440550842373/xbqVn2QD_400x400.jpg"> </a>
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>Sui</strong></span><br><br />
+            <a href="https://www.javascript.com/"" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1646997964441939968/mVPQgClg_400x400.jpg"> </a>  
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>Subspace</strong></span><br><br />
+            <a href="https://www.javascript.com/"" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1382564944198078464/-7D9uyig_400x400.jpg"> </a>  
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>Ironfish</strong></span><br><br />
+            <a href="https://www.javascript.com/"" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1367581984986296320/kxDDjheA_400x400.jpg"> </a> 
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>Stratos</strong></span><br><br />
+            <a href="https://www.javascript.com/"" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1354172599874560000/jA-zebSN_400x400.png"> </a>  
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>Taiko</strong></span><br><br />
+            <a href="https://www.javascript.com/"" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1601055081675325440/ycMVxfJt_400x400.jpg"> </a>  
         </tr>
     </tbody>
 </table>
 <table width="320px" align="center">
 
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <div align="center"><h1>Planned Testnet</h1>
+  </div>
+</div>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>OPSIDE</strong></span><br><br />
+            <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://pbs.twimg.com/profile_images/1608632586137395201/Khrl4_wJ_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>FIRECHAIN</strong></span><br><br />
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://pbs.twimg.com/profile_images/1649948450996330496/iQVqbpo4_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>SCROLL</strong></span><br><br />
+            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://pbs.twimg.com/profile_images/1523593944386326528/rVjsezsD_400x400.jpg"> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
      
 
 <div align="center">
