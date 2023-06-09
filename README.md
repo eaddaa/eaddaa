@@ -43,7 +43,7 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             </td>
             <td width="130px" align="center">
             <span><strong>GITOPIA</strong></span><br><br />
-            <a href="https://gitopia.exploreme.pro/validator/gitopiavaloper15gyw7y8fgrng9d0fdyntpmp7eultajgz6zvnaw" rel="noopener noreferrer">
+            <a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1qxttplah2cd0ssez5rla9e7lc540yxpga9eahr" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png"> </a>
           </tr>
     </tbody>
