@@ -42,6 +42,13 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <a href="https://hq.q.org/staking/validators/0x880782a92C578FF738c5507450c13AE27e72A816" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
             </td>
+              </td> 
+            <td width="130px" align="center">
+            <span><strong>SARCOPHAGUS</strong></span><br><br />
+            <a href="https://github.com/Core-Node-Team/Testnet-TR/tree/main/Sarcophagus/Domain-Settings"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1299025554163871744/wNNzn8OT_400x400.jpg"> </a>
+            </td> 
+            </td>
             <td width="130px" align="center">
             <span><strong>NEWRL</strong></span><br><br />
             <a href="https://twitter.com/newrl_layer1" target="_blank" rel="noopener noreferrer">
