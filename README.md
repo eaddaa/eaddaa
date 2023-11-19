@@ -30,7 +30,12 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <span><strong>QUICKSILVER</strong></span><br><br />
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper194psnczqjngneqgu5updp3a5ac3eq87n72qjwh" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg"> </a>
-            </td>
+            </td
+            <td width="130px" align="center">
+            <span><strong>MUON</strong></span><br><br />
+            <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg"> </a>
+            </td> 
             <td width="130px" align="center">
             <span><strong>Q BLOCKCHAIN</strong></span><br><br />
             <a href="https://hq.q.org/staking/validators/0x880782a92C578FF738c5507450c13AE27e72A816" target="_blank" rel="noopener noreferrer">
