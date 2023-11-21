@@ -29,7 +29,7 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <td width="130px" align="center">
             <span><strong>QUICKSILVER</strong></span><br><br />
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper194psnczqjngneqgu5updp3a5ac3eq87n72qjwh" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="[https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg]"> </a>
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1488798003473358848/V2gPwVeO_400x400.jpg"> </a>
             </td
                     </td> 
             <td width="130px" align="center">
