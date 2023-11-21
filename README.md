@@ -200,18 +200,7 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <span><strong>Taiko</strong></span><br><br />
             <a href="https://www.javascript.com/"" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1601055081675325440/ycMVxfJt_400x400.jpg"> </a>  
-        </tr>
-    </tbody>
-</table>
-<table width="320px" align="center">
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <div align="center"><h1>Planned Testnet</h1>
-  </div>
-</div>
-<table width="320px" align="center">
-    <tbody>
+                  <tbody>
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>OPSIDE</strong></span><br><br />
@@ -229,8 +218,18 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <img height="80px" src="https://pbs.twimg.com/profile_images/1523593944386326528/rVjsezsD_400x400.jpg"> </a>
             </td>
         </tr>
+        </tr>
     </tbody>
 </table>
+<table width="320px" align="center">
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <div align="center"><h1>Planned Testnet</h1>
+  </div>
+</div>
+<table width="320px" align="center">
+
      
 
 <div align="center">
