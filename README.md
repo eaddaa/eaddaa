@@ -54,6 +54,12 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <a href="https://twitter.com/newrl_layer1" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1567814417630511107/MyafMY_R_400x400.png"> </a>
             </td>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>TERITORI</strong></span><br><br />
+            <a href="https://teritori.explorers.guru/validator/torivaloper1s90e3fzjzfawucev597u5lpxnjs2wdna47ffu6" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://i.ibb.co/z5nyhjk/teritori.png"> </a>
+            </td>
           </tr>
     </tbody>
 </table>   
