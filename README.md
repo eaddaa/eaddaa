@@ -31,7 +31,7 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper194psnczqjngneqgu5updp3a5ac3eq87n72qjwh" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1743937771046096897/xA8ls39q_400x400.png"> </a>
             </td
-                    </td> 
+            </td> 
             <td width="130px" align="center">
             <span><strong>MUON</strong></span><br><br />
             <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
@@ -60,6 +60,11 @@ Hey there! I’m eaddaa.PoS Validator.Blockchain and crypto-enthusiast.
             <a href="https://teritori.explorers.guru/validator/torivaloper1s90e3fzjzfawucev597u5lpxnjs2wdna47ffu6" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/z5nyhjk/teritori.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>MASSA</strong></span><br><br />
+            <a href="https://medium.com/@altai0/massa-the-decentralized-and-scaled-blockchain-d%C3%BC%C4%9F%C3%BCm-olu%C5%9Fturma-t%C3%BCrk%C3%A7e-7713d46c246c" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1580151744901824512/W_MD85bU_400x400.jpg"> </a>
+            </td> 
           </tr>
     </tbody>
 </table>   
