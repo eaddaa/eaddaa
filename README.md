@@ -253,7 +253,7 @@ Hey there! I’m eaddaa.PoS,POW Validator.Blockchain and crypto-enthusiast.
 
    <li> Email: eaddaa@gmail.com</li>
    <li> Telegram: https://t.me/eaddaa</li>
-   <li> Discord: eaddaa#8291</li>
+   <li> Discord: eaddaa</li>
    <li> Twitter: https://twitter.com/finance777eada</li>
 
 <div align="center">
