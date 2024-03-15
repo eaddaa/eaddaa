@@ -30,17 +30,27 @@ Hey there! I’m eaddaa.PoS,POW Validator.Blockchain and crypto-enthusiast.
             <span><strong>QUICKSILVER</strong></span><br><br />
             <a href="https://quicksilver.explorers.guru/validator/quickvaloper194psnczqjngneqgu5updp3a5ac3eq87n72qjwh" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1743937771046096897/xA8ls39q_400x400.png"> </a>
-            </td
             </td> 
             <td width="130px" align="center">
             <span><strong>MUON</strong></span><br><br />
             <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg"> </a>
             </td> 
+            </td> 
+            <td width="130px" align="center">
+            <span><strong>PACTUS</strong></span><br><br />
+            <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1767588889743785984/lvzTWqcm_400x400.jpg"> </a>
+            </td> 
             <td width="130px" align="center">
             <span><strong>Q BLOCKCHAIN</strong></span><br><br />
             <a href="https://hq.q.org/staking/validators/0x880782a92C578FF738c5507450c13AE27e72A816" target="_blank" rel="noopener noreferrer">
             <img height="60px" src="https://i.ibb.co/Zc3ZFyQ/Q-block.jpg"> </a>
+            </td>
+              <td width="130px" align="center">
+            <span><strong>MINIMA</strong></span><br><br />
+            <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
             </td>
               </td> 
             <td width="130px" align="center">
@@ -214,7 +224,7 @@ Hey there! I’m eaddaa.PoS,POW Validator.Blockchain and crypto-enthusiast.
                   <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>OPSIDE</strong></span><br><br />
+            <span><strong>LUMOZ</strong></span><br><br />
             <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://pbs.twimg.com/profile_images/1608632586137395201/Khrl4_wJ_400x400.jpg"> </a>
             </td>
