@@ -84,9 +84,19 @@ Hey there! I’m eaddaa.PoS,POW Validator.Blockchain and crypto-enthusiast.
   <h2><i>A C T I V E & C O M P L E T E D&nbsp; T E S T N E T S</i></h2>   
   </div>
 </div>
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">
+   <table width="320px" align="center">
+     <tbody>
+       <tr valign="top">
+          </td>
+            <td width="130px" align="center">
+            <span><strong>AVAIL</strong></span><br><br />
+            <a href="https://goldberg.avail.tools/#/explorer/query/0x6ba6552ab2967c69434c710ee047143bfd25170c19653867bc40adb4b9f5d645" target="_blank" rel="noopener noreferrer">
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png"> </a>
+          </td>
+   <table width="320px" align="center">
+     <tbody>
+            </td>
+            <tr valign="top">
             <td width="130px" align="center">
             <span><strong>DYMENSION</strong></span><br><br />
             <a href="https://dymension.explorers.guru/validator/dym19ks2zar84w4g4cfr9r39hvt3c8a7lt4plwszj9" target="_blank" rel="noopener noreferrer">
