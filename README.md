@@ -115,7 +115,7 @@ Hey there! I’m eaddaa.PoS,POW Validator.Blockchain and crypto-enthusiast.
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
             <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
-            <img height="60px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
+            <img height="60px" src="https://pbs.twimg.com/profile_images/1808852486402211840/4B19YQz__400x400.jpg"> </a>
             </td>
    <table width="320px" align="center">
     <tbody>
