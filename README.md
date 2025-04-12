@@ -4,7 +4,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=eaddaa&color=blueviolet" alt="Profile views"/>
   
-  <p>"Hey there! I'm eaddaa - Professional PoS/PoW Validator with extensive experience across 30+ blockchain networks."</p>
+  <p>Hey there! I'm eaddaa - Professional PoS/PoW Validator with extensive experience across 30+ blockchain networks.</p>
 </div>
 
 ## 🌟 MAINNET VALIDATORS
